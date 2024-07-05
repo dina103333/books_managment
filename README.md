@@ -8,6 +8,7 @@ The system is designed to manage books in a library .
 ## Technology Used
 
 - Laravel.
+- Mysql
 
 ## Installation and Usage
 
